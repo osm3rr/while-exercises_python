@@ -1,0 +1,1 @@
+Solved exercises in python of the loop while
